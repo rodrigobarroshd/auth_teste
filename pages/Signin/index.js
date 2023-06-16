@@ -15,9 +15,9 @@ function Signin() {
       <Header />
       <Container>
         <Title>Login</Title>
-        <Input placeholderTextColor="#fff" placeholder="E-mail" />
+        <Input placeholderTextColor="black" placeholder="E-mail" />
         <Input
-          placeholderTextColor="#fff"
+          placeholderTextColor="black"
           placeholder="Senha"
           secureTextEntry
         />
